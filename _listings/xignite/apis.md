@@ -2,9 +2,9 @@
 name: Xignite
 description: Financial market data on-demand. Xignite financial Web services help
   build smarter websites and applications in minutes with zero up-front investment.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/280-xignite.jpg
 x-kinRank: "9"
-x-alexaRank: "258878"
+x-alexaRank: "383974"
 tags:
 - Utility
 - Transcripts
@@ -15,6 +15,7 @@ tags:
 - SaaS
 - Realestate
 - Publishing
+- New
 - Markets
 - Markets
 - Market Data
@@ -23,6 +24,7 @@ tags:
 - JavaScript
 - Government
 - Getting Started
+- Financial Services
 - Financial News API
 - Financial
 - Finance
@@ -36,14 +38,14 @@ tags:
 - Business
 - Bond Markets
 - Articles
-created: "2018-03-27"
-modified: "2018-03-27"
+created: "2018-05-12"
+modified: "2018-05-12"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/annualized/master/_listings/xignite/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Xignite Statistics
   description: Financial market data on-demand
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/280-xignite.jpg
   humanURL: ""
   baseURL: https://www.xignite.com/xStatistics.json/XigniteStatistics
   tags: Annualized
